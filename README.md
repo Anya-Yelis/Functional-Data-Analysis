@@ -14,7 +14,7 @@ We then use functional regression to create a model that predicts the S&P 500’
 
 <img width="516" alt="Screen Shot 2024-09-15 at 11 54 17 AM" src="https://github.com/user-attachments/assets/011f6e53-6cef-4844-94c3-04f9899b0078">
 
-$\beta_0$
+$\beta_0
 
 
 # Why Do We Annualize Monthly Volatility?
