@@ -15,7 +15,7 @@ We then use functional regression to create a model that predicts the S&P 500’
 <img width="516" alt="Screen Shot 2024-09-15 at 11 54 17 AM" src="https://github.com/user-attachments/assets/011f6e53-6cef-4844-94c3-04f9899b0078">
 
 $\beta_0(X_i(t))$ is a function that describes how one of the economic indicators changes over the month. This part of the equation smooths the data over time.
-$\Z_ij$ represents scalar economic factors. 
+$\Z_[i]_[j]$ represents scalar economic factors. 
 
 # Why Do We Annualize Monthly Volatility?
 Annualizing the volatility makes it easier to compare volatility across different months and periods. Volatility in one month might be high, but if we annualize it, we can compare it to the average annual volatility over multiple years or months, giving us a clearer picture of whether a particular month is unusually volatile.
