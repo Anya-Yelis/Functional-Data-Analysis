@@ -1,5 +1,6 @@
 # Functional-Data-Analysis
-[2023_Fall_MURL_Poster (1).pdf](https://github.com/user-attachments/files/17252078/2023_Fall_MURL_Poster.1.pdf)
+
+<img width="1165" alt="Screen Shot 2024-10-03 at 8 49 32 PM" src="https://github.com/user-attachments/assets/9a56b4bc-fc77-4e4e-84cd-b62a7daec799">
 
 
 What is Functional Data Analysis (FDA)?
